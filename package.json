@@ -2,7 +2,7 @@
   "name": "unit-tests",
   "version": "1.0.0",
   "description": "Example of unit tests",
-  "main": "index.js",
+  "main": "pure-unit-functions.js",
   "type": "module",
   "scripts": {
     "test": "jasmine"

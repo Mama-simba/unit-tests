@@ -1,4 +1,4 @@
-import { greet } from "../pure-unit-functions";
+import { greet } from "../pure-unit-functions.js";
 
 describe("greet", () => {
   it("should greet by name & surname", () => {
