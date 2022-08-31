@@ -1,0 +1,16 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "Example of unit tests",
+  "main": "pure-unit-functions.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "unit-tests"
+  },
+  "author": "Cristina Padilla",
+  "license": "ISC"
+}
