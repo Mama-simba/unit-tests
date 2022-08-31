@@ -12,5 +12,8 @@
     "url": "unit-tests"
   },
   "author": "Cristina Padilla",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.3.0"
+  }
 }
