@@ -2,14 +2,14 @@
   "name": "unit-tests",
   "version": "1.0.0",
   "description": "Example of unit tests",
-  "main": "pure-unit-functions.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "jasmine"
   },
   "repository": {
     "type": "git",
-    "url": "unit-tests"
+    "url": "git+https://github.com/Mama-simba/unit-tests.git"
   },
   "author": "Cristina Padilla",
   "license": "ISC",
