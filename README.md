@@ -25,6 +25,5 @@ Thanks to [this article](https://how-to.dev/how-to-start-unit-testing-with-jasmi
 - Original source - [How-to.dev](https://how-to.dev/how-to-start-unit-testing-with-jasmine)
 - Author' solution [Marcin Wosinek](https://github.com/how-to-js/how-to-unit-test/tree/jasmine/tree/jasmine)
 - My portfolio - [www.cristina-padilla.com](https://www.cristina-padilla.com)
-how-to-start-unit-testing-with-jasmine)
 - Twitter - [@crispitipina](https://www.twitter.com/crispitipina)
 
